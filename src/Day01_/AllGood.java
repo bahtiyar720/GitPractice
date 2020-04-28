@@ -5,5 +5,7 @@ public class AllGood {
         System.out.println("Hello Github");
         System.out.println("hello bahtiyar");
         System.out.println("hello bahit");
+         System.out.println("hello fecth");
+        
     }
 }
